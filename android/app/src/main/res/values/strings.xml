@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cognitive-flow</string>
+    <string name="title_activity_main">cognitive-flow</string>
+    <string name="package_name">com.cognitiveflow.app</string>
+    <string name="custom_url_scheme">com.cognitiveflow.app</string>
+</resources>
